@@ -1,0 +1,2 @@
+Projeto local criado para uso pessoal.
+Sem garantia de ganho de FPS ou compatibilidade permanente com FastFlags do Roblox.

@@ -1,0 +1,3 @@
+# Opcional. O app funciona sem instalar, mas psutil melhora a deteccao de RAM,
+# bateria e frequencia de CPU.
+psutil>=5.9.0
